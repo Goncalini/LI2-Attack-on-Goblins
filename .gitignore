@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+!Makefile
+# Unignore all dirs
+!*/
+
+# Ignore default executable
+a.out
+*.o
+*.exe
+
+# Ignore .vscode settings files
+.vscode
+
+# Ignore cache files
+jogo.dSYM
+objetos
+
+# Ignore executables
+jogo
